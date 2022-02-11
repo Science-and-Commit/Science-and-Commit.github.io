@@ -12,7 +12,7 @@
   weight: 5
 
 - name: Python
-  weight: 5
+  weight: 4
 
 - name: Debugging
   weight: 3
