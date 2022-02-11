@@ -66,7 +66,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Proyectos de participantes
+projects_title: Proyectos de les participantes
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -80,9 +80,9 @@ os_projects_title: Repositorios de S&C
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contacto
 # contact_description: This will be displayed under the title.
-contact_description: si tienes duda, puedes contactarte con...
+contact_description: Si tienes alguna duda, escríbenos! 
 
 # Quienes somos
 # show_aboutme_card:
@@ -92,7 +92,7 @@ show_whoarewe_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 whoarewe_title: ¿Quienes somos?
 # about_me_description: This will be displayed under the title.
-whoarewe_description: Science & Commit es un equipo de cuatro estudiantes de postgrado en Astronomía de la Universidad de Chile. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
+whoarewe_description: Science and Commit es un equipo de cuatro estudiantes de postgrado en Astronomía de la Universidad de Chile. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
 
 
 # GITHUB-METADATA
