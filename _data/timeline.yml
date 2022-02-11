@@ -19,8 +19,8 @@
 - title: Apertura de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 12 de Febrero
-  #subtitle: Fullstack Developer
-  tags:
+  subtitle: 
+  # tags:
   #  - tag: React
   #  - tag: Javascript
   #  - tag: Ruby
@@ -30,8 +30,8 @@
 - title: Límite de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 6 de Marzo
-  #subtitle: Fullstack Developer
-  tags:
+  subtitle: 
+  # tags:
   #  - tag: React
   #  - tag: Javascript
   #  - tag: Ruby
@@ -39,9 +39,9 @@
   timeline-side: right
 
 - title: Día 1 del Workshop
-  #title-url: https://example.com/
+  title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 29 de Marzo
-  subtitle: ''
+  subtitle:
   tags:
     - tag: Git & GitHub
     - tag: Packages
@@ -49,9 +49,9 @@
   timeline-side: left
 
 - title: Día 2 del Workshop
-  #title-url: https://example.com/
+  title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 30 de Marzo
-  #subtitle: M.Sc. Computer Science
+  subtitle:
   tags:
     - tag: Debugging
     - tag: Code Documentation
@@ -59,11 +59,11 @@
     - tag: Releasing code  
   timeline-side: right
 
-  - title: Día de descanso
-  #title-url: https://example.com/
+- title: Día de descanso
+  title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 31 de Marzo
-  subtitle: ''
-  #tags:
+  subtitle:
+  # tags:
   #  - tag: Debugging
   #  - tag: Code Documentation
   #  - tag: Software Testing
@@ -71,17 +71,11 @@
   timeline-side: left
 
 - title: Día 3 del Workshop
-  #title-url: https://example.com/
+  title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 1 de Abril
-  subtitle: ''
+  subtitle:
   tags:
     - tag: Software Testing
     - tag: Parallel programming
     - tag: Anti-discriminatory practices
   timeline-side: right
-
-#- title: Super University
-#  title-url: https://example.com/
-#  date: 2014 - 2017
-#  subtitle: B.A. Computer Science
-#  timeline-side: left
