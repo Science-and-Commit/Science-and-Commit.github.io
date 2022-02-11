@@ -1,0 +1,43 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Git
+  weight: 3
+
+- name: GitHub
+  weight: 5
+
+- name: Python
+  weight: 5
+
+- name: Debugging
+  weight: 3
+
+- name: Code Profiling
+  weight: 2
+
+- name: Documentation
+  weight: 2
+
+- name: Paralellization
+  weight: 1
+
+- name: Releasing Code
+  weight: 4
+
+- name: Ethics
+  weight: 5
+
+- name: Packages
+  weight: 3
+
+- name: Environments
+  weight: 2
+
+- name: Testing
+  weight: 1
+

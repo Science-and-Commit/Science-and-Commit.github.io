@@ -5,32 +5,20 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Science
   weight: 5
 
-- name: Bash
+- name: Commit
+  weight: 5
+
+- name: Luan
+  weight: 5
+
+- name: Workshop
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
+- name: Discord
   weight: 1
 
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
+- name: Zoom
   weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
-  weight: 3
-
-- name: Postman
-  weight: 4

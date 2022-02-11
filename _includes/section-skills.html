@@ -1,23 +1,23 @@
 <h1 class="title">{{site.skills_title}}</h1>
 
 <div id="skills">
-  <input type="radio" id="all" name="filter" checked />
-  <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Languages</label>
-  <input type="radio" id="framework" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Frameworks</label>
+  <input type="radio" id="todos" name="filter" checked />
+  <label class="filter-button neumorphism-button" for="todos">Todos</label>
+  <input type="radio" id="sesiones" name="filter" />
+  <label class="filter-button neumorphism-button" for="sesiones">Sesiones</label>
+  <input type="radio" id="comunidad" name="filter" />
+  <label class="filter-button neumorphism-button" for="comunidad">Comunidad</label>
   <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Tools</label>
+  <label class="filter-button neumorphism-button" for="tool">Generales</label>
 
-  {% for language in site.data.skills-languages %}
-    <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
-      {{language.name}}
+  {% for ses in site.data.skills-sesiones %}
+    <div skill-type="sesiones" skill-weight="{{ses.weight}}" data-aos="zoom-in">
+      {{ses.name}}
     </div>
   {% endfor %}
-  {% for framework in site.data.skills-frameworks %}
-    <div skill-type="framework" skill-weight="{{framework.weight}}" data-aos="zoom-in">
-      {{framework.name}}
+  {% for com in site.data.skills-comunidad %}
+    <div skill-type="comunidad" skill-weight="{{com.weight}}" data-aos="zoom-in">
+      {{com.name}}
     </div>
   {% endfor %}
   {% for tool in site.data.skills-tools %}

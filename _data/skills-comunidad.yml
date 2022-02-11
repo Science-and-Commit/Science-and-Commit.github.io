@@ -5,29 +5,20 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Colaboracion
+  weight: 3
+
+- name: Postgrado
+  weight: 3
+
+- name: Pregrado
+  weight: 2
+
+- name: Chile
+  weight: 4
+
+- name: Comunidad
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
+- name: Astronomia
+  weight: 5

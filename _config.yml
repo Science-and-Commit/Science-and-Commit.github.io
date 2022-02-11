@@ -42,7 +42,7 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Objetivos
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -65,7 +65,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Proyectos de Alumnos
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
