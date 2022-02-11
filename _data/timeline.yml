@@ -16,7 +16,7 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-- title: Anuncio del workshop y apertura de inscripciones.
+- title: Anuncio del workshop
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 12 de Febrero
   subtitle: 
@@ -27,7 +27,18 @@
   #  - tag: Rails
   timeline-side: right
 
-- title: Cierre de inscripciones.
+- title: Apertura de inscripciones
+  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
+  date: 12 de Febrero
+  subtitle: 
+  # tags:
+  #  - tag: React
+  #  - tag: Javascript
+  #  - tag: Ruby
+  #  - tag: Rails
+  timeline-side: right
+
+- title: Cierre de inscripciones
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 13 de Marzo
   subtitle: 
@@ -38,7 +49,7 @@
   #  - tag: Rails
   timeline-side: right
 
-- title: Anuncio de participantes.
+- title: Anuncio de participantes
   title-url: 
   date: 21 de Marzo
   subtitle: 
@@ -55,8 +66,9 @@
   subtitle:
   tags:
     - tag: Git & GitHub
-    - tag: Packages
-    - tag: Environments
+    - tag: Charla Invitada 1
+    - tag: Packages & Environments
+    - tag: Trabajo personal
   timeline-side: left
 
 - title: Día 2 del Workshop
@@ -64,11 +76,11 @@
   date: 30 de Marzo
   subtitle:
   tags:
-    - tag: Debugging
-    - tag: Code Documentation
-    - tag: Software Testing
-    - tag: Releasing code  
-  timeline-side: right
+    - tag: Debugging & Code Documentation
+    - tag: Code Profiling & Releasing Code 
+    - tag: Software Testing & Parallel Programming
+    - tag: Trabajo personal 
+  timeline-side: left
 
 - title: Día de trabajo personal
   title-url: https://github.com/Science-and-Commit/Workshop_2022
@@ -79,14 +91,14 @@
   #  - tag: Code Documentation
   #  - tag: Software Testing
   #  - tag: Releasing code  
-  timeline-side: left
+  timeline-side: right
 
 - title: Día 3 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 1 de Abril
   subtitle:
   tags:
-    - tag: Software Testing
-    - tag: Parallel programming
-    - tag: Anti-discriminatory practices
-  timeline-side: right
+    - tag: Anti-discriminatory Practices
+    - tag: Charla Invitada 2
+    - tag: Presentaciones de la actividad
+  timeline-side: left
