@@ -41,7 +41,7 @@
 - title: Día 1 del Workshop
   #title-url: https://example.com/
   date: 29 de Marzo
-  #subtitle: Software Engineer as Intern
+  subtitle: ''
   tags:
     - tag: Git & GitHub
     - tag: Packages
@@ -62,7 +62,7 @@
   - title: Día de descanso
   #title-url: https://example.com/
   date: 31 de Marzo
-  #subtitle: M.Sc. Computer Science
+  subtitle: ''
   #tags:
   #  - tag: Debugging
   #  - tag: Code Documentation
@@ -73,7 +73,7 @@
 - title: Día 3 del Workshop
   #title-url: https://example.com/
   date: 1 de Abril
-  #subtitle: Front-End Developer as Intern
+  subtitle: ''
   tags:
     - tag: Software Testing
     - tag: Parallel programming
