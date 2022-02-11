@@ -36,7 +36,6 @@ show_aboutme_card: true
 about_me_title: Sobre el Workshop
 # about_me_description: This will be displayed under the title.
 about_me_description: Aprenderás de forma entretenida como desarrollar y publicar tus proyectos. Utilizando Python desarrollarás un paquete funcional, el cual publicarás a través de GitHub y PyPI. Al final del workshop el objetivo es que este código sea descargable y utilizable por los demás participantes. También conocerás a estudiantes de pre y postgrado en astronomía de diferentes universidades chilenas.
-about_me_description: Y se puede agregar mas?
 
 # SKILLS SECTION
 # show_skills_card:
@@ -93,7 +92,7 @@ show_whoarewe_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 whoarewe_title: ¿Quienes somos?
 # about_me_description: This will be displayed under the title.
-whoarewe_description: Science & Commit es un equipo de cuatro estudiantes de postgrado. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
+whoarewe_description: Science & Commit es un equipo de cuatro estudiantes de postgrado en Astronomía de la Universidad de Chile. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
 
 
 # GITHUB-METADATA
