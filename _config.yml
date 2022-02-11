@@ -36,6 +36,7 @@ show_aboutme_card: true
 about_me_title: Sobre el Workshop
 # about_me_description: This will be displayed under the title.
 about_me_description: Este taller 
+
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
