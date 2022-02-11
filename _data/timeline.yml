@@ -16,48 +16,18 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-- title: Anuncio del workshop
+- title: Anuncio del Workshop!
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 12 de Febrero
-  subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
+  subtitle: Inscripciones
+  tags:
+    - tag: Desde el 12 de febrero
+    - tag: Hasta el 13 de marzo
   #  - tag: Ruby
   #  - tag: Rails
-  timeline-side: right
-
-- title: Apertura de inscripciones
-  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
-  date: 12 de Febrero
-  subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
-  #  - tag: Ruby
-  #  - tag: Rails
-  timeline-side: right
-
-- title: Cierre de inscripciones
-  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
-  date: 13 de Marzo
-  #subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
-  #  - tag: Ruby
-  #  - tag: Rails
-  timeline-side: right
-
-- title: Anuncio de participantes
-  #title-url: 
-  date: 21 de Marzo
-  #subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
-  #  - tag: Ruby
-  #  - tag: Rails
+  subtitle: Anuncio de participantes
+  tags:
+    - tag: 21 de marzo
   timeline-side: right
 
 - title: Día 1 del Workshop
