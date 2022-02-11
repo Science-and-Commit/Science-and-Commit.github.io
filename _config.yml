@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre el Workshop
 # about_me_description: This will be displayed under the title.
-about_me_description: Este taller 
+about_me_description: Aprenderás de forma entretenida como desarrollar y publicar tus proyectos. Nos basaremos en Python, donde desarrollarás un paquete funcional, el cual se hará público a través de GitHub y PyPI. Al final del workshop el objetivo es que este código sea descargable y utilizable por los demás participantes del workshop. Aparte podrás conocer a estudiantes de pre y postgrado en astronomía de diferentes universidades chilenas.
 
 # SKILLS SECTION
 # show_skills_card:
