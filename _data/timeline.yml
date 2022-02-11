@@ -25,7 +25,7 @@
   #  - tag: Javascript
   #  - tag: Ruby
   #  - tag: Rails
-  timeline-side: left
+  timeline-side: right
 
 - title: Límite de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
@@ -36,7 +36,7 @@
   #  - tag: Javascript
   #  - tag: Ruby
   #  - tag: Rails
-  timeline-side: left
+  timeline-side: right
 
 - title: Día 1 del Workshop
   #title-url: https://example.com/
@@ -46,7 +46,7 @@
     - tag: Git & GitHub
     - tag: Packages
     - tag: Environments
-  timeline-side: right
+  timeline-side: left
 
 - title: Día 2 del Workshop
   #title-url: https://example.com/
