@@ -41,7 +41,7 @@
 - title: Cierre de inscripciones
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 13 de Marzo
-  subtitle: 
+  #subtitle: 
   # tags:
   #  - tag: React
   #  - tag: Javascript
@@ -52,7 +52,7 @@
 - title: Anuncio de participantes
   title-url: 
   date: 21 de Marzo
-  subtitle: 
+  #subtitle: 
   # tags:
   #  - tag: React
   #  - tag: Javascript
@@ -85,7 +85,7 @@
 - title: Día de trabajo personal
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 31 de Marzo
-  subtitle:
+  #subtitle:
   # tags:
   #  - tag: Debugging
   #  - tag: Code Documentation
