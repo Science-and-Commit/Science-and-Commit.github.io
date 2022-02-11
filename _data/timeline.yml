@@ -30,6 +30,7 @@
   date: 29 de Marzo
   subtitle:
   tags:
+    - tag: Bienvenida
     - tag: Git & GitHub
     - tag: Charla Invitada 1
     - tag: Packages & Environments
@@ -65,6 +66,6 @@
   tags:
     - tag: Anti-discriminatory Practices
     - tag: Charla Invitada 2
-    - tag: Presentaciones de la actividad
+    - tag: Presentaciones de las actividades grupales
     - tag: Cierre
   timeline-side: left
