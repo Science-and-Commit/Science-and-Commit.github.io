@@ -17,45 +17,50 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
+- title: Fecha límite de Inscripción
+  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
+  date: 6 de Marzo
   subtitle: Fullstack Developer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+  #  - tag: React
+  #  - tag: Javascript
+  #  - tag: Ruby
+  #  - tag: Rails
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
+- title: Día 1 del Workshop
+  #title-url: https://example.com/
+  date: 29 de Marzo
   subtitle: Software Engineer as Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Git & GitHub
+    - tag: Packages
+    - tag: Environments
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Día 2 del Workshop
+  #title-url: https://example.com/
+  date: 30 de Marzo
+  #subtitle: M.Sc. Computer Science
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Debugging
+    - tag: Code Documentation
+    - tag: Software Testing
+    - tag: Releasing code  
+  timeline-side: left
+
+- title: Día 3 del Workshop
+  #title-url: https://example.com/
+  date: 1 de Abril
+  #subtitle: Front-End Developer as Intern
+  tags:
+    - tag: Software Testing
+    - tag: Parallel programming
+    - tag: Anti-discriminatory practices
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+#- title: Super University
+#  title-url: https://example.com/
+#  date: 2014 - 2017
+#  subtitle: B.A. Computer Science
+#  timeline-side: left
