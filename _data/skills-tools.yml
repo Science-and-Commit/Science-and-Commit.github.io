@@ -22,3 +22,6 @@
 
 - name: Zoom
   weight: 2
+
+- name: YouTube
+  weight: 4

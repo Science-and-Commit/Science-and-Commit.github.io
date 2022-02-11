@@ -22,3 +22,6 @@
 
 - name: Astronomia
   weight: 5
+
+- name: Inclusion
+  weight: 2
