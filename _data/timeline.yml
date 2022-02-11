@@ -16,22 +16,32 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-
-- title: Fecha límite de Inscripción
+- title: Apertura de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
-  date: 6 de Marzo
-  subtitle: Fullstack Developer
+  date: 12 de Febrero
+  #subtitle: Fullstack Developer
   tags:
   #  - tag: React
   #  - tag: Javascript
   #  - tag: Ruby
   #  - tag: Rails
-  timeline-side: right
+  timeline-side: left
+
+- title: Límite de Inscripción
+  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
+  date: 6 de Marzo
+  #subtitle: Fullstack Developer
+  tags:
+  #  - tag: React
+  #  - tag: Javascript
+  #  - tag: Ruby
+  #  - tag: Rails
+  timeline-side: left
 
 - title: Día 1 del Workshop
   #title-url: https://example.com/
   date: 29 de Marzo
-  subtitle: Software Engineer as Intern
+  #subtitle: Software Engineer as Intern
   tags:
     - tag: Git & GitHub
     - tag: Packages
@@ -47,6 +57,17 @@
     - tag: Code Documentation
     - tag: Software Testing
     - tag: Releasing code  
+  timeline-side: right
+
+  - title: Día de descanso
+  #title-url: https://example.com/
+  date: 31 de Marzo
+  #subtitle: M.Sc. Computer Science
+  #tags:
+  #  - tag: Debugging
+  #  - tag: Code Documentation
+  #  - tag: Software Testing
+  #  - tag: Releasing code  
   timeline-side: left
 
 - title: Día 3 del Workshop
