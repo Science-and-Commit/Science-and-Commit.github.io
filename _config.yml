@@ -90,7 +90,7 @@ contact_description: Si tienes alguna duda, escríbenos!
 # > setting this to false, will omit the About Me section
 show_whoarewe_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-whoarewe_title: ¿Quienes somos?
+whoarewe_title: ¿Quienes somos nosotres?
 # about_me_description: This will be displayed under the title.
 whoarewe_description: Science and Commit es un equipo de cuatro estudiantes de postgrado en Astronomía de la Universidad de Chile. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
 
