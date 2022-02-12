@@ -83,7 +83,7 @@ show_contact_card: true
 contact_title: Contacto
 # contact_description: This will be displayed under the title.
 
-contact_description: si tienes alguna duda, escríbenos en scienceandcommit@gmail.com
+contact_description: Si tienes alguna duda, escríbenos a scienceandcommit@gmail.com
 
 # Quienes somos
 # show_aboutme_card:
