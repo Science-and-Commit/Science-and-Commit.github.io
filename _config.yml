@@ -16,7 +16,7 @@ username: Science & Commit
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Workshop
 # email: Your E-Mail address for the email button.
-email:
+email: scienceandcommit@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre el Workshop
 # about_me_description: This will be displayed under the title.
-about_me_description: Aprenderás de forma entretenida como desarrollar y publicar tus proyectos. Utilizando Python desarrollarás un paquete funcional, el cual publicarás a través de GitHub y PyPI. Al final del workshop el objetivo es que este código sea descargable y utilizable por los demás participantes. También conocerás a estudiantes de pre y postgrado en astronomía de diferentes universidades chilenas.
+about_me_description: Aprenderás de forma entretenida cómo desarrollar y publicar tus proyectos. Utilizando Python desarrollarás un paquete funcional, el cual publicarás a través de GitHub y PyPI. Al final del workshop tu código sera descargable y utilizable por les demás participantes. También conocerás a estudiantes de pre y postgrado en Astronomía de diferentes universidades chilenas.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -82,7 +82,8 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contacto
 # contact_description: This will be displayed under the title.
-contact_description: Si tienes alguna duda, escríbenos! 
+
+contact_description: Si tienes alguna duda, escríbenos a scienceandcommit@gmail.com
 
 # Quienes somos
 # show_aboutme_card:
