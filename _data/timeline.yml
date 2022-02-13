@@ -19,7 +19,7 @@
 - title: Apertura de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 12 de Febrero
-  subtitle: 
+  # subtitle: 
   # tags:
   #  - tag: React
   #  - tag: Javascript
@@ -30,7 +30,7 @@
 - title: Límite de Inscripción
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 6 de Marzo
-  subtitle: 
+  # subtitle: 
   # tags:
   #  - tag: React
   #  - tag: Javascript
@@ -41,7 +41,7 @@
 - title: Día 1 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 29 de Marzo
-  subtitle:
+  subtitle: Lecciones
   tags:
     - tag: Git & GitHub
     - tag: Packages
@@ -51,7 +51,7 @@
 - title: Día 2 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 30 de Marzo
-  subtitle:
+  subtitle: Lecciones
   tags:
     - tag: Debugging
     - tag: Code Documentation
@@ -62,7 +62,7 @@
 - title: Día de descanso
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 31 de Marzo
-  subtitle:
+  # subtitle:
   # tags:
   #  - tag: Debugging
   #  - tag: Code Documentation
@@ -73,7 +73,7 @@
 - title: Día 3 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 1 de Abril
-  subtitle:
+  subtitle: Lecciones
   tags:
     - tag: Software Testing
     - tag: Parallel programming
