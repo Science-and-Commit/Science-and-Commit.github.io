@@ -46,7 +46,7 @@
     - tag: Code Profiling & Releasing Code 
     - tag: Software Testing & Parallel Programming
     - tag: Trabajo personal 
-  timeline-side: left
+  timeline-side: right
 
 - title: Día de trabajo personal
   #title-url: https://github.com/Science-and-Commit/Workshop_2022
@@ -57,7 +57,7 @@
     - tag: Tiempo para avanzar en la actividad grupal
   #  - tag: Software Testing
   #  - tag: Releasing code  
-  timeline-side: right
+  timeline-side: left
 
 - title: Día 3 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
@@ -68,4 +68,4 @@
     - tag: Charla Invitada 2
     - tag: Presentaciones de las actividades grupales
     - tag: Cierre
-  timeline-side: left
+  timeline-side: right
