@@ -5,7 +5,7 @@
 # - name: Framework
 #   weight: 5
 
-- name: Colaboracion
+- name: Colaboración
   weight: 3
 
 - name: Postgrado
@@ -20,8 +20,8 @@
 - name: Comunidad
   weight: 5
 
-- name: Astronomia
+- name: Astronomía
   weight: 5
 
-- name: Inclusion
+- name: Inclusión
   weight: 2

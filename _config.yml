@@ -16,7 +16,7 @@ username: Science & Commit
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Workshop
 # email: Your E-Mail address for the email button.
-email:
+email: scienceandcommit@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre el Workshop
 # about_me_description: This will be displayed under the title.
-about_me_description: Aprenderás de forma entretenida como desarrollar y publicar tus proyectos. Nos basaremos en Python, donde desarrollarás un paquete funcional, el cual se hará público a través de GitHub y PyPI. Al final del workshop el objetivo es que este código sea descargable y utilizable por los demás participantes del workshop. Aparte podrás conocer a estudiantes de pre y postgrado en astronomía de diferentes universidades chilenas.
+about_me_description: Aprenderás de forma entretenida cómo desarrollar y publicar tus proyectos. Utilizando Python desarrollarás un paquete funcional, el cual publicarás a través de GitHub y PyPI. Al final del workshop tu código sera descargable y utilizable por les demás participantes. También conocerás a estudiantes de pre y postgrado en Astronomía de diferentes universidades chilenas.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -52,7 +52,7 @@ skills_title: Objetivos
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Fechas Importantes y Cronograma
-# cv_download_link: The link where you host your cv.
+cv_download_link: https://github.com/Science-and-Commit/Workshop_2022/blob/main/General_Information/Horario.pdf
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 # cv_download_link: https://example.com/
 
@@ -66,11 +66,11 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Proyectos de participantes
+projects_title: Proyectos de les participantes
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Repositorios de S&C
 
@@ -80,9 +80,10 @@ os_projects_title: Repositorios de S&C
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contacto
 # contact_description: This will be displayed under the title.
-contact_description: si tienes duda, puedes contactarte con...
+
+contact_description: Si tienes alguna duda, escríbenos a scienceandcommit@gmail.com
 
 # Quienes somos
 # show_aboutme_card:
@@ -90,9 +91,9 @@ contact_description: si tienes duda, puedes contactarte con...
 # > setting this to false, will omit the About Me section
 show_whoarewe_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-whoarewe_title: ¿Quienes somos?
+whoarewe_title: ¿Quienes somos nosotres?
 # about_me_description: This will be displayed under the title.
-whoarewe_description: Science & Commit es un equipo de cuatro estudiantes de postgrado. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
+whoarewe_description: Science and Commit es un equipo de cuatro estudiantes de postgrado en Astronomía de la Universidad de Chile. Paula Cáceres Burgos, Rafael Martinez Brunner, Paulina Palma Bifani y Jose Vines López.
 
 
 # GITHUB-METADATA

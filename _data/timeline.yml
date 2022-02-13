@@ -16,26 +16,13 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-- title: Apertura de Inscripción
+- title: Anuncio del Workshop!
   title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
   date: 12 de Febrero
-  # subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
-  #  - tag: Ruby
-  #  - tag: Rails
-  timeline-side: right
-
-- title: Límite de Inscripción
-  title-url: https://forms.gle/Mb4D9JRBiHmSaRy76
-  date: 6 de Marzo
-  # subtitle: 
-  # tags:
-  #  - tag: React
-  #  - tag: Javascript
-  #  - tag: Ruby
-  #  - tag: Rails
+  subtitle: Inscripciones
+  tags:
+    - tag: 12 de febrero - 13 de marzo
+    - tag: Notificación a participantes el 21 de marzo
   timeline-side: right
 
 - title: Día 1 del Workshop
@@ -43,9 +30,11 @@
   date: 29 de Marzo
   subtitle: Lecciones
   tags:
+    - tag: Bienvenida
     - tag: Git & GitHub
-    - tag: Packages
-    - tag: Environments
+    - tag: Charla Invitada 1
+    - tag: Packages & Environments
+    - tag: Trabajo personal
   timeline-side: left
 
 - title: Día 2 del Workshop
@@ -53,29 +42,30 @@
   date: 30 de Marzo
   subtitle: Lecciones
   tags:
-    - tag: Debugging
-    - tag: Code Documentation
-    - tag: Software Testing
-    - tag: Releasing code  
-  timeline-side: right
+    - tag: Debugging & Code Documentation
+    - tag: Code Profiling & Releasing Code 
+    - tag: Software Testing & Parallel Programming
+    - tag: Trabajo personal 
+  timeline-side: left
 
-- title: Día de descanso
-  title-url: https://github.com/Science-and-Commit/Workshop_2022
+- title: Día de trabajo personal
+  #title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 31 de Marzo
-  # subtitle:
-  # tags:
-  #  - tag: Debugging
-  #  - tag: Code Documentation
+  #subtitle:
+  tags:
+    - tag: Múltiples horarios de consulta
+    - tag: Tiempo para avanzar en la actividad grupal
   #  - tag: Software Testing
   #  - tag: Releasing code  
-  timeline-side: left
+  timeline-side: right
 
 - title: Día 3 del Workshop
   title-url: https://github.com/Science-and-Commit/Workshop_2022
   date: 1 de Abril
   subtitle: Lecciones
   tags:
-    - tag: Software Testing
-    - tag: Parallel programming
-    - tag: Anti-discriminatory practices
-  timeline-side: right
+    - tag: Anti-discriminatory Practices
+    - tag: Charla Invitada 2
+    - tag: Presentaciones de las actividades grupales
+    - tag: Cierre
+  timeline-side: left
