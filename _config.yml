@@ -25,7 +25,7 @@ github_username: Science-and-Commit
 # dev_username: exampleUser
 # linkedin_username: exampleUser
 # twitter_username: exampleUser
-youtube_username: PLgppk-AlJAG6wr3Vp-KkeTCNiWRAjmmvn
+# youtube_username: PLgppk-AlJAG6wr3Vp-KkeTCNiWRAjmmvn
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -66,7 +66,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Proyectos de les participantes
+projects_title: Proyectos de participantes
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
