@@ -21,14 +21,15 @@
     - tag: Python
     - tag: Jupyter Notebook
 
-- name: Proyecto Grupo 1
-  descr: "Aca estará la descripción, link al repositorio, etc."
-  demo: https://example.com/
+- name: BayesianGLS
+  descr: "Una implementacion del Periodograma de Lomb Scargle Generalizado Bayesiano descrito por Mortier et al. 2015."
+  demo: https://github.com/jvines/BayesianGLS
   tags:
     - tag: Python
     - tag: GitHub
-   # - tag: AngularJS
-   # - tag: Node
+    - tag: time-series
+    - tag: bayesian
+    - tag: data-analysis
 
 - name: Proyecto Grupo 3
   descr: "Aca estará la descripción, link al repositorio, etc."
