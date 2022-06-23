@@ -14,6 +14,34 @@
 #     - tag: Node
 
 
+
+- name: Generador De Memes
+  descr: "Proyecto Grupo 2. Integrantes: Devika Mukhi, Ernesto Camacho & Sebastián Hermosilla Canobra"
+  demo: https://github.com/sebastianHermosilla/GeneradorDeMemes
+    - tag: Python
+
+- name: Astonomo vs Alien
+  descr: "Juego corto como proyecto para el Workshop Science and Git. Proyecto Grupo 3. Integrantes: Paulo Solar Vera, Fabian Trigo, Greco Peña"
+  demo: https://github.com/fbientrigo/astronomo-vs-alien
+
+    - tag: Python
+    - tag: HTML
+
+
+- name: Selfcare bot
+  descr: "Proyecto grupo 4. Integrantes: Nicolás Guerra, Francisca Chabour & Lorena Gutiérrez"
+  demo: https://github.com/lorenagh/proyecto
+  tags:
+    - tag: Python
+    - tag: Jupyter Notebook
+
+
+- name: Luan Spaceship 
+  descr: "A simple Python Command-Line Interface script that prints an ASCII spaceship via flag. Proyecto Grupo 7. Integrantes: Francisco Carrasco Varela, Yannick Andrés Roth Carrillo & Felipe Ahumada"
+  demo: https://github.com/Panchitoz1/luanspaceship
+
+    - tag: Python
+
 - name: Happy Random Birthday
   descr: "Don't know how to say Happy birthday to a friend ? Tired of saying the same thing every single year? No more! With this module you will always know how to cheer up your friend for their special day."
   demo: https://github.com/PauCaBu/HappyRandomBirthday
@@ -30,6 +58,3 @@
     - tag: time-series
     - tag: bayesian
     - tag: data-analysis
-
-- name: Proyecto Grupo 3
-  descr: "Aca estará la descripción, link al repositorio, etc."
